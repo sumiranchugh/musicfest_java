@@ -1,0 +1,44 @@
+[
+  {
+  "name":  "fest",
+  "bands":
+  [
+    {
+      "name": "band1",
+      "labels": [
+        {
+          "name": "label1"
+        }
+      ]
+    }
+  ]
+  },
+  {
+    "name":  "fest2",
+    "bands":
+    [
+      {
+        "name": "band1",
+        "labels": [
+          {
+            "name": "label1"
+          },
+          {
+            "name": "label2"
+          }
+        ]
+      },
+      {
+        "name": "band2",
+        "labels": [
+          {
+            "name": "label3"
+          },
+          {
+            "name": "label2"
+          }
+        ]
+      }
+    ]
+  }
+]

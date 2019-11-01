@@ -14,6 +14,6 @@ import java.util.Set;
 public class Band {
 
     String name;
-    @EqualsAndHashCode.Exclude
+//    @EqualsAndHashCode.Exclude
     Set<Fest> fests = new HashSet<>();
 }

@@ -14,6 +14,6 @@ import java.util.Set;
 public class RecordLabel {
 
     String name;
-    @EqualsAndHashCode.Exclude
+//    @EqualsAndHashCode.Exclude
     Set<Band> bands = new HashSet<>();
 }
